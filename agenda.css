@@ -1,0 +1,49 @@
+h1{
+    color: snow;
+    text-align: center;
+}
+body{
+    border-radius: 2%;
+    background-image: radial-gradient(rgb(159, 145, 248),rgb(75, 243, 255));
+    font-family: 'Roboto', sans-serif;
+background-repeat: repeat;
+background-size: cover;
+background-position: top;
+}
+table{
+    border-collapse:collapse;
+    margin:auto;
+    background-color: rgb(223, 222, 222);
+}
+
+td{
+    border:1px solid black;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    
+}
+
+th{
+color:rgb(255, 251, 251);
+border:1px solid black;
+background-color: rgb(46, 105, 139);
+}
+
+.formu{
+    text-align: center;
+    background-color: rgb(211, 211, 211);
+    margin-left: 10px;
+    border-radius: px;
+}
+.form{
+    text-align: center;
+}
+
+.tresimportant{
+background-color: rgb(176, 250, 91);
+}
+
+.important{
+    background-color: rgb(238, 238, 109);
+}
